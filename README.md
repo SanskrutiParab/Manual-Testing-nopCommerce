@@ -127,7 +127,7 @@ Manual-Testing-nopCommerce/
 QA Tester | Manual Testing Enthusiast
 
 - GitHub: [@SanskrutiParab](https://github.com/SanskrutiParab)
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn: www.linkedin.com/in/sanskruti-parab-431582364
 
 ---
 
